@@ -2,7 +2,8 @@
 
 BOB The Robot - Arduino Controlled Desktop Robot
 
-![alt text](https://raw.github.com/Emiliano-Rodriguez/bob.png)
+![bob](https://user-images.githubusercontent.com/31290912/47319584-ad4d1480-d614-11e8-884c-0193d5e7fe38.png)
+
 
 
 This is Bob. 
